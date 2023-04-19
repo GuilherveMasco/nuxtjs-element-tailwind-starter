@@ -58,7 +58,7 @@ export default {
 
   // Server Configuration: https://nuxtjs.org/docs/2.x/configuration-glossary/configuration-server
   server: {
-    port: process.env.PORT || 3001,
+    port: process.env.PORT || 3000,
   },
 
   // Axios Configuration: https://axios.nuxtjs.org/options
