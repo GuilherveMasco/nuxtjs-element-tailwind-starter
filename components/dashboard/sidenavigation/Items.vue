@@ -3,7 +3,7 @@
     <sidenav-item title="Dashboard" to="/">
       <font-awesome-icon icon="chart-simple" />
     </sidenav-item>
-    <sidenav-item title="Categoria" to="/category">
+    <sidenav-item title="Artista" to="/artist">
       <font-awesome-icon icon="list-ul" />
     </sidenav-item>
   </ul>
